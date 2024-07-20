@@ -1,0 +1,66 @@
+
+.navbar {
+    background-color: rgba(0, 0, 255, 0.413);
+    border: 5px solid;
+} 
+.home{
+    height: 35px;
+    margin-right: 1em;
+}
+.siii{
+  
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.cr7img{
+    height: 400px;
+    justify-content: center;
+    
+
+}
+.tg{
+    margin: 1em;
+    text-align: center;
+    
+}
+h1{
+    background-color: rgba(255, 247, 0, 0.486);
+}
+table {
+    margin: 20px 0;
+    border: 1px solid black;
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+    border: solid black;
+}
+th {
+    background-color: #ff000063;
+}
+.real{
+    display: flex;
+    margin: 2em;
+    align-items: center;
+}
+.jj{
+    height: 480px;
+    margin-right: 1em;
+    
+}
+.des:hover{
+    font-size: larger;
+    color: red;
+
+}
+.football{
+    width: 100%;
+}
+.body{
+    background-color: black;
+}
+.fo{
+    color: white;
+    text-align: center;
+}
